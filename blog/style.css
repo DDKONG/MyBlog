@@ -1,0 +1,88 @@
+*{
+		margin:0;
+	}
+	#div1{
+		width:900px;
+		height:100px;
+		background-image:url("S_sky.jpg");
+		margin:0 auto;
+
+
+	}
+	#div2{
+		width:900px;
+		height:1000px;
+		background-color:#C1E5C6;
+		margin:0 auto;
+		background-color:#C1E5C6;
+	}
+	
+	
+
+	
+	body{
+		background-image:url("bluesky.jpg");
+	}
+
+	#div1 ul{
+		list-style:none;
+
+
+	}
+	#div1 li{
+		float:left;
+		margin-right:30px;
+		font-family:黑体;
+		margin-top:40px;
+		font-size:30px
+	}
+	#div1 li a{
+   	text-decoration:none;
+   }
+	#div1 li a:link,#div1 li a:visited{
+		font-size:10pt;
+		font-weight:bold;
+		display:block;
+		padding:5px 5px 5px 5px;
+		background-color:#1AA2E5;
+		color:#fff;
+	}
+	#div1 li a:hover,#div1 li a:active{
+		font-size:10pt;
+		font-weight:bold;
+		display:block;
+		padding:5px;
+		background-color:#fff;
+		color:#000;
+	}
+	#img1{
+	     margin:10px;
+		float:right;
+	}
+	#img2{
+		border:5px  solid #0F89EA;
+		float:right;
+		margin-left:10px;
+		margin-right:50px;
+	}
+	#ks{
+		font-family:楷体;
+		font-size:40px;
+	}
+	#my{
+		text-align:center;
+		font-size:50px;
+		margin-bottom:60px;
+
+	}
+
+	ul{
+		list-style:none;
+	}
+	#myinform{
+		font-family:黑体;
+		font-size:30px;
+	}
+	.inf{
+		margin-bottom:50px;
+	}
